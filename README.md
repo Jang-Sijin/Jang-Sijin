@@ -4,8 +4,8 @@
 
 <h3 align='center'>📈 GitHub Stats</h3>
 <h2 align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Sijin&amp;hide=glsl,ShaderLab,Mathematica,Javascript,CMake,Html,ASP.NET,HLSL&amp;layout=compact&langs_count=10&theme=onedark" alt="Top Langs" width="30%" style="vertical-align: middle;"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jang-Sijin&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF" width="35.3%" style="vertical-align: middle;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Sijin&amp;hide=glsl,ShaderLab,Mathematica,Javascript,CMake,Html,ASP.NET,HLSL&amp;layout=compact&langs_count=10&theme=onedark" alt="Top Langs" width="40%" style="vertical-align: middle;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jang-Sijin&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF" width="47%" style="vertical-align: middle;"/>
 </h2>
 
 <h3 align='center'>📚 Skills Used Recently </h3>
