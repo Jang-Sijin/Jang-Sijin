@@ -22,11 +22,11 @@
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white" style="vertical-align: middle;"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" style="vertical-align: middle;"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" style="vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logoColor=white" style="vertical-align: middle;"/>
 </p>
 
 <p align='center'>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" style="vertical-align: middle;"/> 
 <img src="https://img.shields.io/badge/OpenGL-4479A1?style=flat-square&logo=opengl&logoColor=white&color=4479A1" style="vertical-align: middle;"/>
 <img src="https://img.shields.io/badge/DirectX-0078D4?style=flat-square&logo=windows&logoColor=white" style="vertical-align: middle;"/>
 </p>
