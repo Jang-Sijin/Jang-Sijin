@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" style="vertical-align: middle;"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" style="vertical-align: middle;"/>
 <img src="https://img.shields.io/badge/Mirror-2C2F33?style=flat-square&logo=mirror&logoColor=white" style="vertical-align: middle;"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" style="vertical-align: middle;"/>
 </p>
 <h2 align='center'></h2>
 
@@ -35,6 +36,7 @@
 <p align='center'>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" style="vertical-align: middle;"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" style="vertical-align: middle;"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" style="vertical-align: middle;"/>
 </p>
 
 <p align='center'>
