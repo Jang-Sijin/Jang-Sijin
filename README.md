@@ -1,4 +1,4 @@
-<h2 align='center'></h2>
+<h2 align='center'> Welcome to My GitHub </h2>
 <h3 align='center'>📈 GitHub Stats</h3>
 <h2 align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Sijin&amp;hide=glsl,ShaderLab,Mathematica,Javascript,CMake,Html,ASP.NET,HLSL&amp;layout=compact&langs_count=10&theme=onedark" alt="Top Langs" width="40%" style="vertical-align: middle;"/>
@@ -54,3 +54,4 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" style="vertical-align: middle;"/>
 </p>
 <h2 align='center'></h2>
+<h2 align='center'> Thank you for visiting </h2>
