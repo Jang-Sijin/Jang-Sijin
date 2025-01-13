@@ -2,7 +2,7 @@
 <h3 align='center'>📈 GitHub Stats</h3>
 <h2 align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Sijin&amp;hide=glsl,ShaderLab,Mathematica,Javascript,CMake,Html,ASP.NET,HLSL&amp;layout=compact&langs_count=10&theme=onedark" alt="Top Langs" width="340" height="200" style="vertical-align: middle;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jang-Sijin&theme=gruvbox&hide_border=true&background=0D1117&stroke=58A6FF" width="400" height="200" style="vertical-align: middle;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jang-Sijin&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF" width="380" height="200" style="vertical-align: middle;"/>
 </h2>
 
 <h3 align='center'>📚 Skills Used Recently </h3>
