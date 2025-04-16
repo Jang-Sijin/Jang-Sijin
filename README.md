@@ -2,15 +2,15 @@
 <h3 align='center'>📈 GitHub Stats</h3>
 <h2 align='center'>
   <span style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Sijin&hide=glsl,ShaderLab,Mathematica,Javascript,CMake,Html,ASP.NET,HLSL&layout=compact&langs_count=10&theme=onedark" width="300" height="140" style="vertical-align: middle;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Sijin&hide=glsl,ShaderLab,Mathematica,Javascript,CMake,Html,ASP.NET,HLSL&layout=compact&langs_count=10&theme=onedark" width="280" height="130" style="vertical-align: middle;"/>
   </span>
   <span style="display: inline-block;">
     <a href="https://solved.ac/awaycon" target="_blank">
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj=awaycon" alt="Solved.ac Profile" width="300" height="140" style="vertical-align: middle;"/>
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=awaycon" alt="Solved.ac Profile" width="280" height="130" style="vertical-align: middle;"/>
     </a>
   </span>
   <span style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jang-Sijin&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF" width="300" height="140" style="vertical-align: middle;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jang-Sijin&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF" width="280" height="130" style="vertical-align: middle;"/>
   </span>
 </h2>
 
