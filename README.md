@@ -56,10 +56,10 @@
 </p>
 <h2 align='center'></h2>
 
-<h3 align='center'>💻 Solved Algorithm </h3>
+<h3 align='center'>💻 Algorithm Solved Status </h3>
 <p align="center">  
   <a href="https://solved.ac/awaycon" target="_blank">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=awaycon" alt="Solved.ac Profile" width="240" height="128" />
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=awaycon" alt="Solved.ac Profile" width="260" height="128" />
   </a>  
 </p>
 
