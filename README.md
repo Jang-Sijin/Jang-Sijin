@@ -1,12 +1,18 @@
-<h2 align='center'> Welcome to My GitHub </h2>
-<h3 align='center'>📈 GitHub Stats</h3>
-<h2 align='center'>
+<div align="center" style="width:1000px;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:B6D9B1,50:60B8AD,100:306E83&height=200&section=header&text=Jang%20Sijin&fontSize=70&fontAlignY=35&fontColor=F1F5EB&desc=Game%20Developer&descAlign=73&descAlignY=50&descColor=F1F5EB&animation=fadeIn" 
+    alt="header"
+    width="100%"
+  />
+</div>
+
+<h2 align='center'>📈 GitHub Stats </h2>
+<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Sijin&amp;hide=glsl,ShaderLab,Mathematica,Javascript,CMake,Html,ASP.NET,HLSL&amp;layout=compact&langs_count=10&theme=onedark" alt="Top Langs" width="340" height="200" style="vertical-align: middle;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Jang-Sijin&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF" width="380" height="200" style="vertical-align: middle;"/>
-</h2>
+</p>
 
-
-<h3 align='center'>📚 Skills Used Recently </h3>
+<h2 align='center'>📚 Skills Used Recently </h2>
 <p align='center'>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white" style="vertical-align: middle;"/>
@@ -15,9 +21,9 @@
 <img src="https://img.shields.io/badge/Mirror-2C2F33?style=flat-square&logo=mirror&logoColor=white" style="vertical-align: middle;"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" style="vertical-align: middle;"/>
 </p>
-<h2 align='center'></h2>
+<br/>
 
-<h3 align='center'>🗃️ Skills & Tools Used in Projects </h3>
+<h2 align='center'>🗃️ Skills & Tools Used in Projects </h2>
 <p align='center'>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white" style="vertical-align: middle;"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" style="vertical-align: middle;"/>
@@ -54,6 +60,14 @@
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" style="vertical-align: middle;"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" style="vertical-align: middle;"/>
 </p>
-<h2 align='center'></h2>
+<br/>
+
+<h2 align='center'> 🧩 Solved Problems </h2>
+<p align='center'>
+  <a href="https://solved.ac/awaycon/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=awaycon" alt="Solved.ac Profile" width="350"/>
+  </a>
+</p>
+<br/>
 
 <h2 align='center'> Thank you for visiting </h2>
