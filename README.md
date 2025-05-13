@@ -70,4 +70,12 @@
 </p>
 <br/>
 
-<h2 align='center'> Thank you for visiting </h2>
+<!-- 하단 푸터 물결 -->
+<h1 align="center"> Thank you for visiting </h1>
+<div align="center" style="width:1000px;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:B6D9B1,50:60B8AD,100:306E83&height=150&section=footer" 
+    alt="footer"
+    width="100%"
+  />
+</div>
