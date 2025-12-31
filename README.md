@@ -6,12 +6,6 @@
   />
 </div>
 
-<h2 align='center'>📈 GitHub Stats </h2>
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Sijin&amp;hide=glsl,ShaderLab,Mathematica,Javascript,CMake,Html,ASP.NET,HLSL&amp;layout=compact&langs_count=10&theme=onedark" alt="Top Langs" width="340" height="200" style="vertical-align: middle;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jang-Sijin&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF" width="380" height="200" style="vertical-align: middle;"/>
-</p>
-
 <h2 align='center'>📚 Skills Used Recently </h2>
 <p align='center'>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
